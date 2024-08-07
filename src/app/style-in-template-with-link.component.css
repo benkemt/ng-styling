@@ -1,0 +1,23 @@
+div {
+    background-color: #8a65e0;
+  }
+
+  nav {
+    display: flex;
+    gap: 50px;
+    padding: 10px;
+    text-align: center;
+  }
+
+  a {
+    text-decoration: none;
+    color: #333;
+  }
+
+  a:hover {
+          text-decoration: underline;
+  }
+
+  a.active {
+    color: #007bff;
+  }

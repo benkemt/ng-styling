@@ -1,0 +1,10 @@
+div {
+    background-color: #fc908c;
+  }
+
+  nav {
+    display: flex;
+    gap: 50px;
+    padding: 10px;
+    text-align: center;
+  }

@@ -8,7 +8,7 @@
     background-color: yellow;
   }
 
-  :host-context() {
+  :host-context {
     display: block;
     background-color: #e0ab65;
   }
